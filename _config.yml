@@ -78,8 +78,8 @@ lang: en-GB # Set the site language
 title: "Ruftex" # Site name or title, also used in jekyll-seo-tag
 logo: "assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Garments for work and sports designed in Europe." # Site description and default description, also used in jekyll-seo-tag
-url: "https://vestalux.github.io/" # Site url, also used in jekyll-seo-tag
-baseurl: "ruxtex2/"
+url: "https://vestalux.github.io/ruxtex2" # Site url, also used in jekyll-seo-tag
+baseurl: "/"
 repo: "https://github.com/daviddarnes/alembic"
 email: "me@daviddarnes.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
@@ -91,7 +91,7 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 # 8. Site navigation
 navigation_header:
   Home: /
-  Elements: /elements/
+  Elements: elements
   Blog: /blog/
   Categories: /categories/
   Search: /search/
