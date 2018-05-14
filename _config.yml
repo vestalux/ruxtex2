@@ -76,7 +76,7 @@ lang: en-GB # Set the site language
 title: "Ruftex" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Ruftex is a clothing brand specilized in long lasting clothing for sport and work." # Site description and default description, also used in jekyll-seo-tag
-url: "https://vestalux.github.io/ruxtex2" # Site url, also used in jekyll-seo-tag
+url: "https://vestalux.github.io/ruxtex2/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: ""
 email: "ruftex@sufnitextil.eu"
