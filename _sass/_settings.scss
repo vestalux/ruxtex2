@@ -2,15 +2,15 @@
 $backgroundColour: #ffffff;
 $codeBackgroundColour: #fafafa;
 $featureBackgroundColour: #f9fafa;
-$accentColour: #FF6600;
+$accentColour: #05bf85;
 
 // Text colours
-$headingColour: #2e2b24;
-$bodyColour: #473c38;
-$linkColour: #  #FF6600;
-$hoverColour: #9e4603;
+$headingColour: #242e2b;
+$bodyColour: #384743;
+$linkColour: #05bf85;
+$hoverColour: #008000;
 $focusColour: #fa407a;
-$captionColour: #b2b2b2;
+$captionColour: #a8adac;
 $white: #ffffff;
 
 // Typography
@@ -23,7 +23,7 @@ $bodytype: (
 );
 
 $headingtype: (
-  font-family: 'Montserrat', sans-serif,
+  font-family: '"Merriweather", serif',
   regular: 400,
   bold: 700,
   cap-height: 0.75
@@ -36,4 +36,4 @@ $monospacetype: (
 );
 
 // Font import, if you're using a non-standard web font
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
