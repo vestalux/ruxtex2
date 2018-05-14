@@ -76,10 +76,10 @@ lang: en-GB # Set the site language
 title: "Ruftex" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Ruftex is a clothing brand specilized in long lasting clothing for sport and work." # Site description and default description, also used in jekyll-seo-tag
-url: "https://vestalux.github.io/ruxtex2/" # Site url, also used in jekyll-seo-tag
-baseurl: ""
+url: "https://vestalux.github.io/" # Site url, also used in jekyll-seo-tag
+baseurl: "ruxtex2/"
 repo: "https://github.com/daviddarnes/alembic"
-email: "/"
+email: "ruftex@sufnitextil.eu"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 # google_analytics: ''
