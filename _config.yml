@@ -98,12 +98,12 @@ navigation_header:
   Contact: /contact/
 
 navigation_footer:
-  # Created by David Darnes: https://darn.es
+  Sufni Textil: https://sufnitextil.eu
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/ruftexworkwear
   Facebook: https://facebook.com/ruftexworkwear
-  Istagram: https://instagram.com/ruftexworkwear
+  Instagram: https://instagram.com/ruftexworkwear
   # LinkedIn: https://www.linkedin.com/in/daviddarnes
   # Google+: https://plus.google.com/+DavidDarnes
   #GitHub: https://github.com/daviddarnes
