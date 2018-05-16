@@ -2,7 +2,7 @@
 title: Catalog
 feature_text: |
  Sportswear and workwear range
-feature_image: "/assets/bg03.jpeg"
+feature_image: "https://vestalux.github.io/ruxtex2/assets/bg03.jpeg"
 excerpt: "Sports and workwear proudly made in Europe"
 aside: false
 ---
