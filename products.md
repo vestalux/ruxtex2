@@ -4,7 +4,7 @@ feature_text: |
  Sportswear and workwear range
 feature_image: "/assets/bg03.jpeg"
 excerpt: "Sports and workwear proudly made in Europe"
-aside: true
+aside: false
 ---
 <div>
 			<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="800" height="600" id="myFlashContent">
